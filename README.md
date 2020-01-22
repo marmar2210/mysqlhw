@@ -1,4 +1,4 @@
-# Bamazon
+# third party amazon
 
 Amazon-like storefront via terminal using Node.js and MySQL. This CLI-app will take in orders from customers and deplete stock from the store's inventory using a MySQL database.
 
