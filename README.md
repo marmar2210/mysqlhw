@@ -17,7 +17,7 @@ optional node packages: `cli-table` (makes the table pretty), `dotenv` (to hide 
 ### Installing
 
 ```
-npm install...
+npm install.
 ```
 
 example:
